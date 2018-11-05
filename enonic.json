@@ -1,0 +1,12 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/enonic/xp-cli/releases/download/0.1.2/enonic_0.1.2_Windows_x86_64.tar.gz",
+            "bin": "enonic.exe",
+            "hash": "1084da3e5939e330af41c30d12aedb39a604902d44d1ead6404af9e1e4f546a2"
+        }
+    },
+    "homepage": "http://enonic.com/",
+    "description": "Enonic XP command line interface."
+}
