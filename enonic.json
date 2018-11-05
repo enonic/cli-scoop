@@ -4,9 +4,10 @@
         "64bit": {
             "url": "https://github.com/enonic/xp-cli/releases/download/0.1.2/enonic_0.1.2_Windows_x86_64.zip",
             "bin": "enonic.exe",
-            "hash": "0e814328c989b8cde936094c78df6653b13b0d10ec56d2d469ee69d27c397ad6"
+            "hash": "5e9988ac81ef174546602f0873e1d6bb889e153b35880f2a4b9796e44a17f9b6"
         }
     },
     "homepage": "http://enonic.com/",
+    "license": "GPLv3",
     "description": "Enonic XP command line interface."
 }
