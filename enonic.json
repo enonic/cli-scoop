@@ -4,7 +4,7 @@
         "64bit": {
             "url": "https://github.com/enonic/xp-cli-scoop/releases/download/0.1.7/enonic_0.1.7_Windows_64-bit.zip",
             "bin": "enonic.exe",
-            "hash": "de680e08806a5d2e1806830c8bd9b015c9bc1c7ebea97260c0213d2e2eef5ac2"
+            "hash": "0e083984ae89c9ab27d87a4e1fe7a37508ce0a49ac019a6efaaacee08982c070"
         }
     },
     "homepage": "http://enonic.com/",
