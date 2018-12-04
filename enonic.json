@@ -1,10 +1,10 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/enonic/xp-cli-scoop/releases/download/0.1.7/enonic_0.1.7_Windows_64-bit.zip",
+            "url": "https://github.com/enonic/xp-cli-scoop/releases/download/0.1.8/enonic_0.1.8_Windows_64-bit.zip",
             "bin": "enonic.exe",
-            "hash": "0e083984ae89c9ab27d87a4e1fe7a37508ce0a49ac019a6efaaacee08982c070"
+            "hash": "899ecdd743096e11d6484ec705dcb841bbe15c21df4ecd4dcc5b7277f9976246"
         }
     },
     "homepage": "http://enonic.com/",
