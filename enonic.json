@@ -4,7 +4,7 @@
         "64bit": {
             "url": "http://repo.enonic.com/public/com/enonic/cli/enonic/0.2.2/enonic_0.2.2_Windows_64-bit.zip",
             "bin": "enonic.exe",
-            "hash": "d1db0d190f689cd9620e42510f71c0b3f48eaf04a3ff551dd234d1facdd87bad"
+            "hash": "c39ef2b7033b20646478bf01ff7d596a8406d3d9b0f6d0e783a0a2202eb074af"
         }
     },
     "homepage": "http://enonic.com/",
