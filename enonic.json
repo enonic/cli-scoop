@@ -2,12 +2,12 @@
     "version": "0.3",
     "architecture": {
         "64bit": {
-            "url": "http://repo.enonic.com/public/com/enonic/cli/enonic/0.3/enonic_0.3_Windows_64-bit.zip",
+            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/0.3/enonic_0.3_Windows_64-bit.zip",
             "bin": "enonic.exe",
-            "hash": "5db01da93d3607df4290c7eb1e5c312c937994e944d60d4b177b074653e01637"
+            "hash": "c0a5d89c84ac5b41a4ae20e716aaf5c01943809e163d4720c02f810d5f0f6856"
         }
     },
-    "homepage": "http://enonic.com/",
+    "homepage": "https://enonic.com/",
     "license": "GPLv3",
-    "description": "Enonic XP command line interface."
+    "description": "Command-line interface for Enonic XP"
 }
