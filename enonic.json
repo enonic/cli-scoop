@@ -1,12 +1,12 @@
 {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/3.1.2/enonic_3.1.2_Windows_64-bit.zip",
+            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/3.1.3/enonic_3.1.3_Windows_64-bit.zip",
             "bin": [
                 "enonic.exe"
             ],
-            "hash": "8446611d8bbb9c7223b9588a125d97452fc57401724de8dbabc24284b9f2fd63"
+            "hash": "a213368360f7bf1615c56601a3b98547683d44d21c9bab99c54aa4b285d0790b"
         }
     },
     "homepage": "https://enonic.com/",
