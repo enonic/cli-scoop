@@ -6,14 +6,14 @@
             "bin": [
                 "enonic.exe"
             ],
-            "hash": "7f6487bac5005935aae1e030ac6319505ebc90afc098c49e7e61043da25491a4"
+            "hash": "b652a8c87d970afc953ce670c097dce591d3611b8bb4a8dec643b2d8a53c7b14"
         },
         "arm64": {
             "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/3.4.0/enonic_3.4.0_Windows_arm64.zip",
             "bin": [
                 "enonic.exe"
             ],
-            "hash": "50779c7659dbdf7325f3fe1364f9983145dbad35aabfa2c4be03e1ace30fbf1f"
+            "hash": "781ea8115f06c049cd120e6dd325d538c9d2f72961fdf426c222e28797a094b3"
         }
     },
     "homepage": "https://enonic.com/",
