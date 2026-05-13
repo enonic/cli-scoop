@@ -1,19 +1,19 @@
 {
-    "version": "4.0.0-B2",
+    "version": "4.0.0-B3",
     "architecture": {
         "64bit": {
-            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/4.0.0-B2/enonic_4.0.0-B2_Windows_64-bit.zip",
+            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/4.0.0-B3/enonic_4.0.0-B3_Windows_64-bit.zip",
             "bin": [
                 "enonic.exe"
             ],
-            "hash": "38ee2691c634f69fb0c9f998a0204e84e3e12c11b5b81243ee5eedee952bf18d"
+            "hash": "12b959e1c54ee37295817ba92cc29aab41d24a24cafb9ed9a54af8c69274a043"
         },
         "arm64": {
-            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/4.0.0-B2/enonic_4.0.0-B2_Windows_arm64.zip",
+            "url": "https://repo.enonic.com/public/com/enonic/cli/enonic/4.0.0-B3/enonic_4.0.0-B3_Windows_arm64.zip",
             "bin": [
                 "enonic.exe"
             ],
-            "hash": "da42d3d79e3127e4b97733d95b362b70222823c00f4d7d7e5a228955151eec1d"
+            "hash": "109ab4ed5cae0f49c8512de61b6ef1efffe9e78d07372a154b6b052a71f8a179"
         }
     },
     "homepage": "https://enonic.com/",
